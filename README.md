@@ -64,4 +64,6 @@ Additionally, you get the output of the angle as shown in the GUI.
 
 There is a whole application note which comprises all the information needed for the out of shaft application. The application note can be found [here](https://www.infineon.com/dgdl/Infineon-Out_of_Shaft-AN-v01_00-EN.pdf?fileId=5546d46265257de801653898ba536074).
 
-Additionally, you will also find more information about the TLx493D 3D Magnetic Sensor family and applications on the webpage [here](https://www.infineon.com/cms/en/product/promopages/sensors-2go/).
+Additionally, you will also find more information about the TLx493D 3D Magnetic Sensor family and applications on the webpage [here](https://www.infineon.com/cms/en/product/promopages/sensors-2go/). Moreober, the generic GUI includes a section for out of shaft as well and the GUI can be found here:
+
+[3D 2Go GUI](https://www.infineon.com/dgdl/Infineon-Software-for-3D-Magnetic-Sensor-2Go+incl.+out-of-shaft-SW-v03_30-EN.zip?fileId=5546d4626102d35a01614626f9644e4e)
