@@ -28,7 +28,7 @@ For `exampleTLE493D_outOfShaft` please consult this repository: [TLE493D-3DMagne
 
 For `exampleTLV493D_outOfShaft` please consult this repository: [TLV493D-A1B6-3DMagnetic-Sensor](https://github.com/Infineon/TLV493D-A1B6-3DMagnetic-Sensor)
 
-Please note that you need to install the respective library for Arduino for the 3D Magnetic sensor.
+Please note that you need to install the respective library for Arduino for the 3D magnetic sensor.
 More information can be found in the respective repository.
 
 For this application, there exists a specific 3D printed tool as shown below.
