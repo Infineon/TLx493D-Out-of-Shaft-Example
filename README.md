@@ -15,7 +15,7 @@ The shaft needs to have a magnetic encoder with at least 2 poles on the shaft as
 
 ### Z-X Configuration
 
-<img src="pictures/Shaft_Z_X.jpg" width=300>
+<img src="pictures/Shaft_Z_X.jpg" width=240>
 
 ## Usage of this Example
 
